@@ -33,10 +33,6 @@ ContactBook/
 
 Clone or Download the Project
 
-git clone https://github.com/your-username/contact-book-cli.git
-cd contact-book-cli
-
-
 Or just create a folder manually and add contact_book.py.
 
 Install Python
